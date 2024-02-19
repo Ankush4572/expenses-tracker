@@ -1,5 +1,5 @@
 {
-  "name": "Expanse-Management-System",
+  "name": "Expanse Tracker",
   "version": "1.0.0",
   "description": "expanse tracker app",
   "main": "server.js",
@@ -10,8 +10,8 @@
     "dev": "concurrently \"npm start\" \"npm run client\" "
   },
   "keywords": [],
-  "author": "Anuj Kumar",
-  "license": "MMMUT GKP",
+  "author": "Ankush Pal",
+  "license": "IKGPTU",
   "dependencies": {
     "colors": "^1.4.0",
     "concurrently": "^7.5.0",
